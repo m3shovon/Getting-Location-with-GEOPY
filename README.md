@@ -1,2 +1,2 @@
 # Getting-Location-with-GEOPY
-Finding Google Map location
+In this project, I worked on getting destination location using Django and I used geopy for this as well 
